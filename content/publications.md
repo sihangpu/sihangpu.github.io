@@ -49,3 +49,6 @@ Sihang Pu, Yu Yu, Weijia Wang, Zheng Guo, Junrong Liu and Dawu Gu.\
 Weijia Wang, François-Xavier Standaert, Yu Yu, Sihang Pu, Junrong Liu, Zheng Guo and Dawu Gu.\
 [[pdf](https://perso.uclouvain.be/fstandae/PUBLIS/181.pdf)]
 {reversed="reversed"}
+
+---
+Hosted on [Github Pages](https://pages.github.com). Powered by [Hugo](https://gohugo.io) and [ʕ•ᴥ•ʔ Bear](https://bearblog.dev).
