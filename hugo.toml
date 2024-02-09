@@ -24,9 +24,6 @@ ignoreErrors = ["error-disable-taxonomy"]
 [markup.goldmark.parser.attribute]
 block = true
 
-[services]
-  [services.disqus]
-    shortname = pushbeni
 
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.
