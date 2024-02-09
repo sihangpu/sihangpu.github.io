@@ -6,14 +6,45 @@ menu = "main"
  Authorship in alphabetical order by default.
 
 ---
-Fuzzy Private Set Intersection with Large Hyperballs.\
+1. **Fuzzy Private Set Intersection with Large Hyperballs**.\
 *EUROCRYPT 2024*\
 Aron van Baarsen, Sihang Pu.
 
-Practical Lattice-Based Distributed Signatures for a Small Number of Signers.\
+2. **Practical Lattice-Based Distributed Signatures for a Small Number of Signers**.\
 *ACNS 2024*\
 Nabil Alkeilani Alkadri, Nico Döttling, Sihang Pu.
 
-Post Quantum Fuzzy Stealth Signatures and Applications.\
+7. **Post Quantum Fuzzy Stealth Signatures and Applications**.\
 *CCS 2023*\
-Sihang Pu, Sri AravindaKrishnan Thyagarajan, Nico Döttling, Lucjan Hanzlik.
+Sihang Pu, Sri AravindaKrishnan Thyagarajan, Nico Döttling, Lucjan Hanzlik.\
+[[eprint](https://eprint.iacr.org/2023/1148)]
+
+5. **Batch-OT with Optimal Rate**.\
+*EUROCRYPT 2022*\
+Zvika Brakerski, Pedro Branco, Nico Döttling, Sihang Pu.\
+[[eprint](https://eprint.iacr.org/2022/314)]
+
+4. **Multiparty Cardinality Testing for Threshold Private Set Intersection**.\
+*PKC 2021*\
+Pedro Branco, Nico Döttling, Sihang Pu.\
+[[eprint](https://eprint.iacr.org/2020/1307)]
+
+3. **Laconic Private Set Intersection and Applications**.\
+*TCC 2021*\
+Navid Alamati, Pedro Branco, Nico Döttling, Sanjam Garg, Mohammad Hajiabadi, Sihang Pu.\
+[[eprint](https://eprint.iacr.org/2021/728)]
+
+2. **A Combinatorial Approach to Quantum Random Functions**.\
+*ASIACRYPT 2020*\
+Nico Döttling, Giulio Malavolta, Sihang Pu.\
+[[eprint](https://eprint.iacr.org/2020/1508)]
+
+2. **Trace Augmentation: What Can Be Done Even Before Preprocessing in a Profiled SCA**.\
+*CARDIS 2017*\
+Sihang Pu, Yu Yu, Weijia Wang, Zheng Guo, Junrong Liu and Dawu Gu.\
+[[pdf](../pdf/traceaugmentation.pdf)]
+
+1. **Inner Product Masking for Bitslice Ciphers and Security Order Amplification for Linear Leakages**.\
+*CARDIS 2016*\
+Weijia Wang, François-Xavier Standaert, Yu Yu, Sihang Pu, Junrong Liu, Zheng Guo and Dawu Gu.\
+[[pdf](https://perso.uclouvain.be/fstandae/PUBLIS/181.pdf)]
