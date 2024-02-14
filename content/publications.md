@@ -8,7 +8,7 @@ menu = "main"
 ---
 1. **Fuzzy Private Set Intersection with Large Hyperballs**.\
 *EUROCRYPT 2024*\
-Aron van Baarsen, Sihang Pu.
+Sihang Pu, Aron van Baarsen.
 
 1. **Practical Lattice-Based Distributed Signatures for a Small Number of Signers**.\
 *ACNS 2024*\
