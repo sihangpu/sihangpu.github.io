@@ -14,7 +14,7 @@ Sihang Pu, Aron van Baarsen.
 *ACNS 2024*\
 Nabil Alkeilani Alkadri, Nico Döttling, Sihang Pu.
 
-1. **Post Quantum Fuzzy Stealth Signatures and Applications**.\
+1. <cite>[^1]**Post Quantum Fuzzy Stealth Signatures and Applications**.</cite>\
 *CCS 2023*\
 Sihang Pu, Sri AravindaKrishnan Thyagarajan, Nico Döttling, Lucjan Hanzlik.\
 [[eprint](https://eprint.iacr.org/2023/1148)]
@@ -39,16 +39,18 @@ Navid Alamati, Pedro Branco, Nico Döttling, Sanjam Garg, Mohammad Hajiabadi, Si
 Nico Döttling, Giulio Malavolta, Sihang Pu.\
 [[eprint](https://eprint.iacr.org/2020/1508)]
 
-1. **Trace Augmentation: What Can Be Done Even Before Preprocessing in a Profiled SCA**.\
+1. <cite>[^1]**Trace Augmentation: What Can Be Done Even Before Preprocessing in a Profiled SCA**.</cite>\
 *CARDIS 2017*\
 Sihang Pu, Yu Yu, Weijia Wang, Zheng Guo, Junrong Liu and Dawu Gu.\
 [[pdf](../pdf/traceaugmentation.pdf)]
 
-1. **Inner Product Masking for Bitslice Ciphers and Security Order Amplification for Linear Leakages**.\
+1. <cite>[^1]**Inner Product Masking for Bitslice Ciphers and Security Order Amplification for Linear Leakages**.</cite>\
 *CARDIS 2016*\
 Weijia Wang, François-Xavier Standaert, Yu Yu, Sihang Pu, Junrong Liu, Zheng Guo and Dawu Gu.\
 [[pdf](https://perso.uclouvain.be/fstandae/PUBLIS/181.pdf)]
 {reversed="reversed"}
 
----
+[^1]: Authors are ordered by contributions.
+<!-- ---
 Hosted on [Github Pages](https://pages.github.com). Powered by [Hugo](https://gohugo.io) and [ʕ•ᴥ•ʔ Bear](https://bearblog.dev).
+ -->
