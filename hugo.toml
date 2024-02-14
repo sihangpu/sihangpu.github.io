@@ -22,8 +22,10 @@ ignoreErrors = ["error-disable-taxonomy"]
   tags = "/blog/:slug"
 
 [markup.goldmark.parser.attribute]
-block = true
+  block = true
 
+[markup.highlight]
+  style = 'dracula'
 
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.
