@@ -5,7 +5,6 @@ menu = "main"
 
  Authorship in alphabetical order by default.
 
----
 1. **Fuzzy Private Set Intersection with Large Hyperballs.**\
 *EUROCRYPT 2024*\
 Aron van Baarsen, Sihang Pu.
@@ -53,8 +52,3 @@ Weijia Wang[†](#anchor), François-Xavier Standaert, Yu Yu, Sihang Pu, Junrong
 
 ---
 ###### **†**: the lead author. {#anchor}
-
-<!-- <a id="anchor">s</a> **†** Authors are ordered by contributions. -->
-<!-- ---
-Hosted on [Github Pages](https://pages.github.com). Powered by [Hugo](https://gohugo.io) and [ʕ•ᴥ•ʔ Bear](https://bearblog.dev).
- -->
