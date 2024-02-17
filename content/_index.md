@@ -1,9 +1,9 @@
-![photo](images/selfie.jpg#150 "shadow right")
-I am a PhD candidate at [CISPA Helmholtz Center for Information Security](https://cispa.de/), fortunately, having [Nico Döttling](https://sites.google.com/site/nicodoettling/) as my supervisor.
+![photo](images/selfie.jpg#150 "shadow border right")
+I am a PhD candidate at [CISPA Helmholtz Center for Information Security](https://cispa.de/), fortunately, supervised by [Nico Döttling](https://sites.google.com/site/nicodoettling/).
 I am interested in both theoretical and applied cryptography problems, such as post-quantum cryptography, two-party computation, and privacy enhanced techniques.
 
 ### Short Bio
-Before joining CISPA, I worked as a software engineer in [Autodesk Inc.](https://autodesk.com/) on graphics rendering after graduating from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) with Master's degree in Computer Science and Technology, where I was supervised by [Dawu Gu](https://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=169) and [Yu Yu](http://yuyu.hk). 
+Before joining CISPA, I worked as a software engineer in [Autodesk Inc.](https://autodesk.com/) on graphics rendering. I obtained my Master's degree in Computer Science and Technology from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) under the supervision of [Dawu Gu](https://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=169) and [Yu Yu](http://yuyu.hk). 
 
 
 
@@ -15,4 +15,4 @@ Before joining CISPA, I worked as a software engineer in [Autodesk Inc.](https:/
 ### Contact [蒲思行]
 email: sihang [dot] pu [at] gmail [dot] com
 
----
+links: [Affiliation](https://cispa.de/en/people/sihang.pu) | [DBLP](https://dblp.uni-trier.de/pid/195/8301) | [ORCID](https://orcid.org/0009-0003-2056-6079) | [Google Scholar](https://scholar.google.com/citations?user=lZqY8E0AAAAJ&hl=en)
