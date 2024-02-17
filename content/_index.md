@@ -1,4 +1,4 @@
-![photo](images/selfie.jpg)
+![photo](images/selfie.jpg#150 "shadow right")
 I am a PhD candidate at [CISPA Helmholtz Center for Information Security](https://cispa.de/), fortunately, having [Nico Döttling](https://sites.google.com/site/nicodoettling/) as my supervisor.
 I am interested in both theoretical and applied cryptography problems, such as post-quantum cryptography, two-party computation, and privacy enhanced techniques.
 
