@@ -15,4 +15,4 @@ Before joining CISPA, I worked as a software engineer in [Autodesk Inc.](https:/
 ### Contact [蒲思行]
 email: sihang [dot] pu [at] gmail [dot] com
 
-links: [Affiliation](https://cispa.de/en/people/sihang.pu) | [DBLP](https://dblp.uni-trier.de/pid/195/8301) | [ORCID](https://orcid.org/0009-0003-2056-6079) | [Google Scholar](https://scholar.google.com/citations?user=lZqY8E0AAAAJ&hl=en)
+links: [ORCID](https://orcid.org/0009-0003-2056-6079) | [DBLP](https://dblp.uni-trier.de/pid/195/8301) | [Google Scholar](https://scholar.google.com/citations?user=lZqY8E0AAAAJ&hl=en)
