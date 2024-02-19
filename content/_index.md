@@ -1,6 +1,6 @@
 ![photo](images/selfie.jpg#150 "shadow border right")
 I am a PhD candidate at [CISPA Helmholtz Center for Information Security](https://cispa.de/), fortunately, supervised by [Nico Döttling](https://sites.google.com/site/nicodoettling/).
-I am interested in both theoretical and applied cryptography problems, such as post-quantum cryptography, two-party computation, and privacy enhanced techniques.
+I am interested in both theoretical and applied cryptography problems, such as post-quantum cryptography, and two-party computation.
 
 ### Short Bio
 Before joining CISPA, I worked as a software engineer in [Autodesk Inc.](https://autodesk.com/) on graphics rendering. I obtained my Master's degree in Computer Science and Technology from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) under the supervision of [Dawu Gu](https://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=169) and [Yu Yu](http://yuyu.hk). 
