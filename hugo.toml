@@ -8,7 +8,7 @@ theme = 'hugo-bearblog'
 # Basic metadata configuration for your blog.
 title = "Sihang Pu"
 author = "SP"
-copyright = "Sihang Pu."
+copyright = "Sihang Pu"
 languageCode = "en-US"
 
 # Generate a nice robots.txt for SEO
