@@ -14,6 +14,4 @@ Prior to that, I worked as a software engineer in [Autodesk Inc.](https://autode
  - visited the University of California, Los Angeles, in 2017, to attend a summer school
 
 ### Contact
-email: sihang [dot] pu [at] gmail [dot] com
-
-links: [ORCID](https://orcid.org/0009-0003-2056-6079) | [DBLP](https://dblp.uni-trier.de/pid/195/8301) | [Google Scholar](https://scholar.google.com/citations?user=lZqY8E0AAAAJ&hl=en)
+[ORCID](https://orcid.org/0009-0003-2056-6079) | [DBLP](https://dblp.uni-trier.de/pid/195/8301) | [Google Scholar](https://scholar.google.com/citations?user=lZqY8E0AAAAJ&hl=en) | sihang [dot] pu [at] gmail [dot] com
