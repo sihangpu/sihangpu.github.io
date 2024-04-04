@@ -12,7 +12,8 @@ Aron van Baarsen, Sihang Pu.\
 
 1. **Practical Lattice-Based Distributed Signatures for a Small Number of Signers.**\
 *ACNS 2024*\
-Nabil Alkeilani Alkadri, Nico Döttling, Sihang Pu.
+Nabil Alkeilani Alkadri, Nico Döttling, Sihang Pu.\
+[[eprint](https://eprint.iacr.org/2024/449)]
 
 1. **Post Quantum Fuzzy Stealth Signatures and Applications.**\
 *CCS 2023*\
