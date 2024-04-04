@@ -1,10 +1,10 @@
 ![photo](images/selfie.jpg#150 "shadow border right")
-I am a postdoctoral researcher at [CNRS-IRIF](https://www.irif.fr), Paris, hosted by [Geoffroy Couteau](https://geoffroycouteau.github.io).
+I am currently a [CNRS](https://www.cnrs.fr/en) postdoctoral researcher at [Research Institute on the Foundations of Computer Science (IRIF)](https://www.irif.fr), Paris, hosted by [Geoffroy Couteau](https://geoffroycouteau.github.io).
 I am interested in both theoretical and appliced cryptographic problems, such as two-party secure computations, post-quantum signatures, and privacy-related protocols.
 
 
 ### Short Bio
-Before joining [IRIF](https://www.irif.fr), I worked in [CISPA Helmholtz Center for Information Security](https://cispa.de/) as a PhD student and was supervised by [Nico Döttling](https://sites.google.com/site/nicodoettling/).
+Before joining [IRIF](https://www.irif.fr), I worked in [CISPA Helmholtz Center for Information Security](https://cispa.de/), Germany, as a PhD student and was supervised by [Nico Döttling](https://sites.google.com/site/nicodoettling/).
 Prior to that, I worked as a software engineer in [Autodesk Inc.](https://autodesk.com/) on graphics rendering. I obtained my Master's degree in Computer Science and Technology from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) under the supervision of [Dawu Gu](https://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=169) and [Yu Yu](http://yuyu.hk). 
 
 
