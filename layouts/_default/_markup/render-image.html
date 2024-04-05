@@ -3,4 +3,5 @@
 {{ $imgParam := index (split $imgFragment "+") 1 }}
 {{ $imgSizeX := index (split $imgSize "x") 0 }}
 {{ $imgSizeY := index (split $imgSize "x") 1 }}
+
 <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title }} class="{{ . }}"{{ end }} {{ with $imgSizeX }}width="{{ . }}"{{ end }} {{ with $imgSizeY }}height="{{ . }}"{{ end }}/>

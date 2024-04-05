@@ -28,14 +28,6 @@ ignoreErrors = ["error-disable-taxonomy"]
   style = 'dracula'
 
 [params]
-  scholar_url = "https://scholar.google.com/citations?user=lZqY8E0AAAAJ&hl=en"
-
-  orcid_url = "https://orcid.org/0009-0003-2056-6079"
-
-  dblp_url = "https://dblp.uni-trier.de/pid/195/8301"
-
-  work_url = "https://cispa.de/en/people/sihang.pu"
-
   # This is used in the meta data of your generated html.
   description = ":heart:"
 
