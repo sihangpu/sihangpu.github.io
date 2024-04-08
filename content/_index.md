@@ -5,7 +5,8 @@ I am interested in both theoretical and appliced cryptographic problems, such as
 
 ### Short Bio
 Before joining [IRIF](https://www.irif.fr), I worked in [CISPA Helmholtz Center for Information Security](https://cispa.de/), Germany, as a PhD student and was supervised by [Nico Döttling](https://sites.google.com/site/nicodoettling/).
-Prior to that, I worked as a software engineer in [Autodesk Inc.](https://autodesk.com/) on graphics rendering. I obtained my Master's degree in Computer Science and Technology from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) under the supervision of [Dawu Gu](https://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=169) and [Yu Yu](http://yuyu.hk). 
+Prior to that, I worked as a software engineer in [Autodesk Inc.](https://autodesk.com/) on graphics rendering.
+I obtained my Master's degree in Computer Science and Technology from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) under the supervision of [Dawu Gu](https://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=169) and [Yu Yu](http://yuyu.hk). 
 
 
 ### Other Experience
@@ -14,4 +15,4 @@ Prior to that, I worked as a software engineer in [Autodesk Inc.](https://autode
  - visited the University of California, Los Angeles, in 2017, to attend a summer school
 
 ### Contact
-[ORCID](https://orcid.org/0009-0003-2056-6079) | [DBLP](https://dblp.uni-trier.de/pid/195/8301) | [Google Scholar](https://scholar.google.com/citations?user=lZqY8E0AAAAJ&hl=en) | sihang [dot] pu [at] gmail [dot] com
+[ORCID](https://orcid.org/0009-0003-2056-6079) | [DBLP](https://dblp.uni-trier.de/pid/195/8301) | [Google Scholar](https://scholar.google.com/citations?user=lZqY8E0AAAAJ&hl=en) | sihang.pu [at] gmail.com
