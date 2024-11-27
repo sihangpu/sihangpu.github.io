@@ -1,6 +1,6 @@
 ![photo](/images/casual.jpg#150 "shadow border right")
 I am currently a [CNRS](https://www.cnrs.fr/en) postdoctoral researcher at [Research Institute on the Foundations of Computer Science (IRIF)](https://www.irif.fr), Paris, hosted by [Geoffroy Couteau](https://geoffroycouteau.github.io).
-I am interested in both theoretical and applied cryptographic problems, such as multi-party secure computations and post-quantum signatures.
+I am interested in both theoretical and applied cryptographic problems, such as secure computations and post-quantum signatures.
 
 
 ### Bio

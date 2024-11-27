@@ -4,7 +4,7 @@ menu = "main"
 +++
 
 
-### Short-term Visiting
+### Short-Term Visiting
  - visited IRIF of Université Paris Cité, France, hosted by Geoffroy Couteau for one week, in 2023 
  - visited Aarhus University, Denmark, hosted by Claudio Orlandi for a few days, in 2023
  - visited the Simons Institute, University of California Berkeley, United States, in Spring 2020, to attend a [research program about lattices](https://simons.berkeley.edu/programs/lattices2020)

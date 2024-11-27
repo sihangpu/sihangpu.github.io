@@ -42,12 +42,12 @@ Nico Döttling, Giulio Malavolta, Sihang Pu.\
 
 1. **Trace Augmentation: What Can Be Done Even Before Preprocessing in a Profiled SCA.**\
 *CARDIS 2017*\
-Sihang Pu[†](#anchor), Yu Yu, Weijia Wang, Zheng Guo, Junrong Liu and Dawu Gu.\
-[[pdf](../pdf/traceaugmentation.pdf)]
+Sihang Pu[†](#anchor), Yu Yu, Weijia Wang, Zheng Guo, Junrong Liu, Dawu Gu.\
+[[pdf](/pdf/traceaugmentation.pdf)]
 
 1. **Inner Product Masking for Bitslice Ciphers and Security Order Amplification for Linear Leakages.**\
 *CARDIS 2016*\
-Weijia Wang[†](#anchor), François-Xavier Standaert, Yu Yu, Sihang Pu, Junrong Liu, Zheng Guo and Dawu Gu.\
+Weijia Wang[†](#anchor), François-Xavier Standaert, Yu Yu, Sihang Pu, Junrong Liu, Zheng Guo, Dawu Gu.\
 [[pdf](https://perso.uclouvain.be/fstandae/PUBLIS/181.pdf)]
 {reversed="reversed"}
 

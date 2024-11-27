@@ -6,7 +6,7 @@ baseURL = "https://sihangpu.uk"
 theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
-title = "Sihang Pu『蒲思行』"
+title = "Sihang Pu「蒲思行」"
 author = "SP"
 copyright = "Sihang Pu"
 languageCode = "en-US"
