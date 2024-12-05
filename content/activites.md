@@ -3,6 +3,11 @@ title = "Activities"
 menu = "main"
 +++
 
+### Program Committee
+ - ACM CCS 2025
+ - IACR CiC 2025
+
+
 
 ### Short-Term Visiting
  - visited IRIF of Université Paris Cité, France, hosted by Geoffroy Couteau for one week, in 2023 
