@@ -10,4 +10,5 @@ I obtained my Master's degree in Computer Science and Technology from [Shanghai 
 
 
 ### Contact
-[ORCID](https://orcid.org/0009-0003-2056-6079) | [DBLP](https://dblp.uni-trier.de/pid/195/8301) | [Google Scholar](https://scholar.google.com/citations?user=lZqY8E0AAAAJ&hl=en) | {{< highlight "sihang.pu@gmail.com" >}}
+{{< highlight "sihang.pu@gmail.com" >}}   
+[ORCID](https://orcid.org/0009-0003-2056-6079) | [DBLP](https://dblp.uni-trier.de/pid/195/8301) | [Google Scholar](https://scholar.google.com/citations?user=lZqY8E0AAAAJ&hl=en)
