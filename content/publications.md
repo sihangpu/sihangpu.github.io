@@ -25,7 +25,7 @@ Sihang Pu[†](#anchor), Sri AravindaKrishnan Thyagarajan, Nico Döttling, Lucja
 Zvika Brakerski, Pedro Branco, Nico Döttling, Sihang Pu.\
 [[eprint](https://eprint.iacr.org/2022/314)]
 
-1. **Multiparty Cardinality Testing for Threshold Private Set Intersection**.\
+1. **Multiparty Cardinality Testing for Threshold Private Set Intersection.**\
 *PKC 2021*\
 Pedro Branco, Nico Döttling, Sihang Pu.\
 [[eprint](https://eprint.iacr.org/2020/1307)]
