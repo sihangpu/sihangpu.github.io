@@ -3,6 +3,8 @@ title = "Activities"
 menu = "main"
 +++
 
+I am actively involved in academic service, particularly as a reviewer for submissions to many leading cryptography and applied security conferences, including EUROCRYPT, ASIACRYPT, TCC, PKC, CCS, S&P, ESORICS, ACNS, and others.
+
 ### Program Committee
  - ACM CCS 2025
  - IACR CiC 2025
