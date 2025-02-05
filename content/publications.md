@@ -5,6 +5,10 @@ menu = "main"
 
  Authorship in alphabetical order by default.
 
+1. **Enhanced Trapdoor Hashing from DDH and DCR.**\
+*EUROCRYPT 2025*\
+Geoffroy Couteau, Aditya Hegde, Sihang Pu.
+
 1. **Fuzzy Private Set Intersection with Large Hyperballs.**\
 *EUROCRYPT 2024*\
 Aron van Baarsen, Sihang Pu.\
