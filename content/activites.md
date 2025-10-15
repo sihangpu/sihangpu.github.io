@@ -3,7 +3,7 @@ title = "Activities"
 menu = "main"
 +++
 
-I am actively involved in academic service, particularly as a reviewer for submissions to many leading cryptography and applied security conferences, including Eurocrypt, Crypto, Asiacrypt, ICALP, TCC, PKC, CCS, S&P, ESORICS, ACNS, and others.
+I am actively involved in academic service, particularly as a reviewer for submissions to many leading cryptography and applied security conferences, including Crypto, Eurocrypt, Asiacrypt, ICALP, TCC, PKC, CCS, S&P, ACNS, ESORICS, and others.
 
 ### Program Committee
  - IACR Eurocrypt 2026
