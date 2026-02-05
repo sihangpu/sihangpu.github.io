@@ -8,13 +8,18 @@ Prior to that, I was a PhD student working at [CISPA Helmholtz Center for Inform
 ### Activities
 I am actively involved in academic service, particularly as a reviewer for submissions to many leading cryptography and security conferences & journals, including Crypto, Eurocrypt, Asiacrypt, ICALP, TCC, PKC, CCS, S&P, ACNS, ESORICS, TIFS, and others.
 
-| Program Committee  |Visiting |
-|----------|----------|
-| IACR Eurocrypt 2026| ETH Zürich |
-| USENIX Security 2026 | IRIF of Université Paris Cité |
-| ACM CCS 2025, 2026 |Aarhus University|
-| IACR CiC 2025|Simons Institute|
-||Hebrew University of Jerusalem|
+#### Program Committee  
+- IACR Eurocrypt 2026
+- USENIX Security 2026
+- ACM CCS 2025, 2026
+- IACR CiC 2025|Simons
+
+#### Visiting
+- ETH Zürich
+- IRIF of Université Paris Cité 
+- Aarhus University
+- Simons Institute
+- Hebrew University of Jerusalem
 
 <!-- {{< highlight "text" >}}  -->
 <!-- {{< center >}} -->
