@@ -6,7 +6,7 @@ Prior to that, I was a PhD student working at [CISPA Helmholtz Center for Inform
 
 I am actively involved in academic service, particularly as a reviewer for submissions to many leading cryptography and security conferences & journals, including Crypto, Eurocrypt, Asiacrypt, ICALP, TCC, PKC, CCS, S&P, ACNS, ESORICS, TIFS, and others.
 
-**Program Committee:** Eurocrypt 2026; USENIX Security 2026; CCS 2025,2026; CiC 2025.
+**Program Committee:** Eurocrypt 2026; USENIX Security 2026; CCS 2025/2026; CiC 2025.
 
 
 <!-- {{< highlight "text" >}}  -->
