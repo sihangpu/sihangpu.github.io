@@ -1,40 +1,44 @@
 <style>
-/*@font-face {
-  font-family: "EBGaramond";
-  src: url("/css/fonts/EBGaramond-Regular.ttf");
+@font-face {
+  font-family: "fontBody";
+  src: url("/css/fonts/FunnelSans-Regular.ttf");
   font-weight: normal;
 }
 @font-face {
-  font-family: "EBGaramond";
-  src: url("/css/fonts/EBGaramond-Bold.ttf");
+  font-family: "fontBody";
+  src: url("/css/fonts/FunnelDisplay-Bold.ttf");
   font-weight: bold;
 }
 @font-face {
-  font-family: "EBGaramond";
-  src: url("/css/fonts/EBGaramond-Italic.ttf");
+  font-family: "fontBody";
+  src: url("/css/fonts/FunnelSans-Italic.ttf");
   font-weight: normal;
   font-style: italic;
-}*/
+}
 @font-face {
-    font-family: CangLong;
-    src: url("/css/fonts/LongCang-Regular.ttf");
+    font-family: fontZH;
+    src: url("/css/fonts/ZCOOLXiaoWei-Regular.ttf");
     unicode-range: U+4E00-9FFF;
 }
 
 body {
-    font-family: CangLong,EBGaramond,Georgia;
+    font-family: fontZH,fontBody,sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #444;
     margin: auto;
     padding: 20px;
     max-width: 720px;
-    text-align: left;
     background-color: #fff;
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-    line-height: 1.5;
-    color: #444;
-    font-size: 18px;
-  }
 
+    word-wrap: break-word;
+    overflow-wrap: anywhere;
+
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    text-align: justify;      /* left */
+    text-justify: inter-word;   
+}
   h1,
   h2,
   h3,
@@ -103,7 +107,7 @@ body {
   }
 
   highlight-color {
-      font-family: EBGaramond,Georgia;
+      font-family: fontBody,sans-serif;
       font-size: 18px;
       padding: 2px 5px;
       border-radius: 5px;
@@ -111,7 +115,7 @@ body {
 
   highlight {
       background-color: #3273dc;
-      font-family: EBGaramond,Georgia;
+      font-family: fontBody,sans-serif;
       font-size: 18px;
       padding: 2px 5px;
       border-radius: 5px;
