@@ -3,7 +3,7 @@ title = "Publications"
 menu = "main"
 +++
 
- Authorship in alphabetical order by default.
+Authorship is alphabetical by default.
 1. Malicious Private Set Union with Two-Sided Output.\
 **Eurocrypt 2026**\
 _Sihang Pu, Jiahui Gao, Ni Trieu._
@@ -65,4 +65,6 @@ _Weijia Wang[†](#anchor), François-Xavier Standaert, Yu Yu, Sihang Pu, Junron
 ---
 ###### **†**: the lead author. {#anchor}
 
+<!-- ---- -------------------------- -->
+<!-- ---- selected Dusty Red ------- -->
 <!-- #b9484e -->

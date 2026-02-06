@@ -2,19 +2,19 @@
 figure {
   float: left;
   padding: 5px;
-  margin: 5px;
+  margin: 5px 15px 10px 5px;
+  /*width: 200px;*/
 }
 
 figcaption {
-  float: left;
   font-style: normal;
   font-size: smaller;
   padding: 2px;
   text-align: center;
-  text-indent: 0;
-  margin: 10px 5px 1px;
+  margin-top: 6px;
+  float: none;
+  clear: both;
 }
-
 img {
 /*    margin: 1rem auto;*/
     display: block;
@@ -40,6 +40,34 @@ img.inline {
     display: inline !important;
     margin: 0 !important;
     vertical-align: bottom;
+}
+
+
+.profile-caption {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile-links {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+}
+
+.profile-links img {
+  height: 20px;
+  display: block;
+}
+
+.profile-links a:hover img {
+  opacity: 0.7;
+}
+.profile-email {
+  margin-top: 0.35rem;
+  font-size: 1rem;
+  /*opacity: 0.9;*/
+  font-family: fontMono, monospace;
 }
 
 </style>
