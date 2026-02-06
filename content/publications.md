@@ -10,7 +10,8 @@ _Sihang Pu, Jiahui Gao, Ni Trieu._
 
 1. Fuzzy Private Set Intersection from VOLE.\
 **Asiacrypt 2025**\
-_Aron van Baarsen, Sihang Pu._
+_Aron van Baarsen, Sihang Pu._\
+[{{< highlight "eprint" >}}](https://eprint.iacr.org/2025/911)
 
 1. Enhanced Trapdoor Hashing from DDH and DCR.\
 **Eurocrypt 2025**\
@@ -20,6 +21,7 @@ _Geoffroy Couteau, Aditya Hegde, Sihang Pu._
 **Eurocrypt 2024**\
 _Aron van Baarsen, Sihang Pu._\
 [{{< highlight "eprint" >}}](https://eprint.iacr.org/2024/330)
+
 1. Practical Lattice-Based Distributed Signatures for a Small Number of Signers.\
 **ACNS 2024**\
 _Nabil Alkeilani Alkadri, Nico Döttling, Sihang Pu._\
