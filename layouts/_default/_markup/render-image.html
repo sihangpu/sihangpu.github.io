@@ -1,29 +1,41 @@
-{{ $imgFragment := (urls.Parse .Destination).Fragment }}
-{{ $imgSize := index (split $imgFragment "+") 0 }}
-{{ $imgParam := index (split $imgFragment "+") 1 }}
-{{ $imgSizeX := index (split $imgSize "x") 0 }}
-{{ $imgSizeY := index (split $imgSize "x") 1 }}
+{{- $u := urls.Parse .Destination -}}
+{{- $imgFragment := $u.Fragment -}}
+{{- $parts := split $imgFragment "+" -}}
+{{- $imgSize := index $parts 0 -}}
+{{- $imgParam := cond (ge (len $parts) 2) (index $parts 1) "" -}}
+
+{{- $dims := split $imgSize "x" -}}
+{{- $imgSizeX := index $dims 0 -}}
+{{- $imgSizeY := cond (ge (len $dims) 2) (index $dims 1) "" -}}
 
 <figure>
-<img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title }} class="{{ . }}"{{ end }} {{ with $imgSizeX }}width="{{ . }}"{{ end }} {{ with $imgSizeY }}height="{{ . }}"{{ end }}/>
-<figcaption class="profile-caption">
-  <div class="profile-links">
-    <a href="https://orcid.org/0009-0003-2056-6079" aria-label="ORCID">
-      <img src="/icons/ORCID.svg" alt="ORCID">
-    </a>
+  <img
+    src="{{ .Destination | safeURL }}"
+    alt="{{ .Text }}"
+    {{ with .Title }}class="{{ . }}"{{ end }}
+    {{ with $imgSizeX }}width="{{ . }}"{{ end }}
+    {{ with $imgSizeY }}height="{{ . }}"{{ end }}
+  />
 
-    <a href="https://dblp.uni-trier.de/pid/195/8301" aria-label="DBLP">
-      <img src="/icons/dblp.svg" alt="DBLP">
-    </a>
+  {{- if eq $imgParam "profile" -}}
+  <figcaption class="profile-caption">
+    <div class="profile-links">
+      <a href="https://orcid.org/0009-0003-2056-6079" aria-label="ORCID">
+        <img src="/icons/ORCID.svg" alt="ORCID">
+      </a>
 
-    <a href="https://scholar.google.com/citations?user=lZqY8E0AAAAJ&hl=en" aria-label="Google Scholar">
-      <img src="/icons/google-scholar-logo.svg" alt="Scholar">
-    </a>
-  </div>
+      <a href="https://dblp.uni-trier.de/pid/195/8301" aria-label="DBLP">
+        <img src="/icons/dblp.svg" alt="DBLP">
+      </a>
 
-  <div class="profile-email">
-    sihang.pu@gmail.com
-  </div>
+      <a href="https://scholar.google.com/citations?user=lZqY8E0AAAAJ&hl=en" aria-label="Google Scholar">
+        <img src="/icons/google-scholar-logo.svg" alt="Scholar">
+      </a>
+    </div>
 
-</figcaption>
+    <div class="profile-email">
+      sihang.pu@gmail.com
+    </div>
+  </figcaption>
+  {{- end -}}
 </figure>

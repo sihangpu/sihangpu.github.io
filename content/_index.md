@@ -3,7 +3,7 @@ title: ""
 description: "Research homepage of Sihang Pu."
 ---
 
-![photo](/images/casual.jpg#150 "shadow border")
+![photo](/images/casual.jpg#150+profile "shadow border")
 
 I will be joining [East China Normal University](https://english.ecnu.edu.cn/) this spring. 
 My research interests include cryptographic foundations, multi-party computation (with a particular focus on 2PC), public-key encryption, and lattice-based constructions.
