@@ -5,7 +5,7 @@ description: "Research homepage of Sihang Pu."
 
 ![photo](/images/casual.jpg#150+profile "shadow border")
 
-I will be joining [East China Normal University](https://english.ecnu.edu.cn/) this spring. 
+I am a faculty member at [East China Normal University](https://english.ecnu.edu.cn/). 
 My research interests include cryptographic foundations, multi-party computation (with a particular focus on 2PC), public-key encryption, and lattice-based constructions.
 
 I was a [CNRS](https://www.cnrs.fr/en) postdoctoral researcher at the [Research Institute on the Foundations of Computer Science (IRIF)](https://www.irif.fr) in France, hosted by [Geoffroy Couteau](https://geoffroycouteau.github.io).
