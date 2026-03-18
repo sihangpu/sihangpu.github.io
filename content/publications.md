@@ -6,7 +6,8 @@ menu = "main"
 Authorship is alphabetical by default.
 1. Malicious Private Set Union with Two-Sided Output.\
 **Eurocrypt 2026**\
-_Sihang Pu, Jiahui Gao, Ni Trieu._
+_Sihang Pu, Jiahui Gao, Ni Trieu._\
+[{{< highlight "eprint" >}}](https://eprint.iacr.org/2026/204)
 
 1. Fuzzy Private Set Intersection from VOLE.\
 **Asiacrypt 2025**\

@@ -14,7 +14,7 @@ Prior to that, I completed my PhD at the [CISPA Helmholtz Center for Information
 I have been a Program Committee member for Eurocrypt 2026, USENIX Security 2026, CCS 2025/2026, and CiC 2025.
 
 {{< center >}}
-**I am looking for motivated Ph.D. students to join my group!**
+**I am looking for motivated PhD students to join my group!**
 {{< /center >}}
 
 <!-- ---- ------------------------------ -->
