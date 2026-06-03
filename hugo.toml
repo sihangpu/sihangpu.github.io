@@ -9,7 +9,7 @@ theme = 'hugo-bearblog'
 title = "Sihang Pu「蒲思行」"
 author = "SP"
 copyright = "Sihang Pu"
-languageCode = "en-US"
+locale = "en-US"
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
