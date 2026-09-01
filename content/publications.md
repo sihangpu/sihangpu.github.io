@@ -4,6 +4,10 @@ menu = "main"
 +++
 
 Authorship is alphabetical by default.
+1. Revisiting Fuzzy Password-Authenticated Key Exchange.\
+**Asiacrypt 2026**\
+_Sihang Pu, Li Yao, Yu Yu._
+
 1. Malicious Private Set Union with Two-Sided Output.\
 **Eurocrypt 2026**\
 _Sihang Pu[†](#anchor), Jiahui Gao, Ni Trieu._\
